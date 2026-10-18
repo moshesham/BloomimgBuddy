@@ -1,0 +1,6 @@
+{
+  "name": "BloomLab - Calm Math & Science for AuDHD Learners",
+  "description": "A sensory-friendly, low-stimulus elementary math and science discovery app tailored for AuDHD minds with adaptive difficulty and zero-stress gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
